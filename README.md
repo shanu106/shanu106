@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahnawaj Rangrej</h1>
-<h3 align="center">JavaScript developer from India</h3>
+<h3 align="center">JavaScript developer from Neemuch, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanu106&label=Profile%20views&color=0e75b6&style=flat" alt="shahnawaj Rangrej" /> </p>
 
@@ -19,6 +19,9 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/shahnawaj-rangrej" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahnawaj" height="30" width="40" /></a>
+<a href="https://www.instagram.com/i_am_shahnawazzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/colored/instagram.svg" alt="shahnawaj" height="30" width="40" /></a>
+<a href="https://wa.link/4ndx7j" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/light/whatsapp.svg" alt="shahnawaj" height="30" width="40" /></a>
+<a href="https://shanu106.github.io/My_Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/medium/colored/dribbble.svg" alt="shahnawaj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
