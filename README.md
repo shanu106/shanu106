@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **shahnawajnilger244@@gmail.com**
 
+- <a href="https://drive.google.com/file/d/17KZTtkwhO5VJ_ryBSDLtHClAVh6OjWF4/view?usp=drive_link" target="blank">Find my Resume</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
