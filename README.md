@@ -1,34 +1,127 @@
+<!-- PROFILE HEADER -->
+
 <h1 align="center">Hi 👋, I'm Shahnawaj Rangrej</h1>
-<h3 align="center">JavaScript developer from Neemuch, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanu106&label=Profile%20views&color=0e75b6&style=flat" alt="shahnawaj Rangrej" /> </p>
+<h3 align="center">
+🚀 Backend-Focused Full Stack Developer | Building Scalable Systems
+</h3>
 
-
-
-<p align="left"> <a href="https://www.linkedin.com/in/shahnawaj-rangrej" target="blank"><img src="https://img.shields.io/twitter/follow/shahnawaj Rangrej?logo=twitter&style=for-the-badge" alt="shahnawaj" /></a> </p>
-
-- 🔭 I’m currently working on [POOLD](https://github.com/shanu106/poold)
-
-- 🌱 I’m currently learning **Android Developement**
-
-- 💬 Ask me about **JavaScript, React, Node, Mongo**
-
-- 📫 How to reach me **shahnawajnilger244@@gmail.com**
-
-- <a href="https://drive.google.com/file/d/17KZTtkwhO5VJ_ryBSDLtHClAVh6OjWF4/view?usp=drive_link" target="blank">Find my Resume</a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/shahnawaj-rangrej" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahnawaj" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nawaz.co.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/colored/instagram.svg" alt="shahnawaj" height="30" width="40" /></a>
-<a href="https://wa.link/4ndx7j" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/light/whatsapp.svg" alt="shahnawaj" height="30" width="40" /></a>
-<a href="https://shanu106.github.io/My_Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/medium/colored/dribbble.svg" alt="shahnawaj" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Engineer;Node.js+%7C+MongoDB+%7C+Redis;Real-Time+Systems+%7C+WebRTC;Always+Learning+%F0%9F%9A%80" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnu106&" alt="shahnawaj Rangrej" /></p>
+* 🔭 Full Stack Developer Intern @ **Calm Chase**
+* 🧠 Backend-focused developer passionate about **scalable architectures**
+* ⚡ Skilled in **Redis caching, JWT Auth, OAuth 2.0, WebRTC**
+* 🚀 Building real-world apps (E-commerce systems, Real-time platforms)
+* 🎯 Goal: Become a **top backend engineer & tech entrepreneur**
 
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js" />
+</p>
+
+### 💻 Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,git,github,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 Poold (AI Interviewer)
+
+* AI-powered interview platform with secure **OAuth authentication**
+* Features: interview sessions, uploads, feedback, and engagement tools
+* Optimized media delivery using **ImageKit + Bunny CDN**
+
+🔗 https://github.com/shanu106/poold
+
+---
+
+### 👩🏻‍🚒 hirehelper (Temporary helper finder)
+
+* Temporary helper discovery platform for quick hiring needs
+* Built using **WebRTC + Socket.IO** for real-time communication
+* Low-latency peer-to-peer video chat with efficient session signaling
+
+🔗 https://hirehelper.app
+
+---
+
+### 🌐 Portfolio (3D model and GSAP animations)
+
+* Portfolio experience featuring **3D models** and **GSAP animations**
+* Highlights projects, skills, and backend-focused full stack work
+* Built for smooth, responsive interactions across devices
+
+🔗 https://www.nawaz.app
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanu106&theme=aura" height="170" />
+ 
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanu106&theme=tokyonight" height="170"/>
+  <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shanu106&theme=transparent&hide_border=true" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shanu106&theme=aura" />
+</p>
+
+---
+
+## 🧠 Currently Exploring
+
+* 🧩 System Design (Scalable Backend Architectures)
+* ⚡ Advanced Redis (Caching, Pub/Sub, Rate Limiting)
+* 🔐 Secure Authentication Systems (JWT + OAuth)
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rishank9399/rishank9399/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="https://www.nawaz.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"></a>
+<a href="https://www.linkedin.com/in/shahnawaj-rangrej/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:shahnawajnilger244@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+
+</p>
+
+---
+
+## ⚡ Developer Mindset
+
+> “I don’t just build apps — I build **scalable systems** that solve real-world problems.” 🚀
+
+---
